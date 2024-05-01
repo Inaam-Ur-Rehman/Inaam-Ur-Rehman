@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/inaamurrehman15" target="blank"><img src="https://img.shields.io/twitter/follow/inaamurrehman15?logo=twitter&style=for-the-badge" alt="inaamurrehman15" /></a> </p>
 
-- 🔭 I’m currently working on **Twitter Clone**
+- 🔭 I’m currently working with **HEET Gaming**
 
 - 🌱 I’m currently learning **SvelteKit**
 
